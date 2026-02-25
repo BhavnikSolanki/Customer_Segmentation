@@ -34,6 +34,24 @@ Customer segmentation helps businesses and marketing teams tailor their strategi
 ### Prerequisites
 To run the notebook locally, you will need Python installed along with the required libraries. You can install the dependencies using `pip`:
 
+#### Clone this repository to your local machine:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 git clone [https://github.com/BhavnikSolanki/Customer_Segmentation.git](https://github.com/BhavnikSolanki/Customer_Segmentation.git)
+```
+
+####Navigate to the project directory:
+```
+cd Customer_Segmentation
+```
+
+####jupyter notebook
+```
+jupyter notebook
+```
+
+#### Citation
+If you find the code is valuable, please use this citation.
+
+#### **If you like this LLM Project do drop ⭐ to this repo**
+#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavniksolanki/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhavnikSolanki/)
